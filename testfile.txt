@@ -1,3 +1,6 @@
 Testfile for GIT repository
 
 added lines for checking revisions
+
+making changes
+
